@@ -1,0 +1,17 @@
+Servlets
+
+first we have to download the apache tomcat server 9.0.65 then we have to download it and extract it
+and we have to clixk on right click projrct and confugure the build path 
+and we have to search for the serves then we have to add tom cat server
+then 
+
+
+
+
+
+
+first we have t create the maven project 
+then select all catlogs and and type under org.apache.maven and then select webapp.4.4
+
+then archives and zip file 9.0.65
+and then we have to extract it and 
